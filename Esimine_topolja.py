@@ -1,2 +1,3 @@
-a=input('Print your mum name! - ')
-print(f'{a} is stupid ')
+for x in range(10):
+	print('Hello World')
+print('My final message... Goodbye! ')
